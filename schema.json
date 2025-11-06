@@ -1,0 +1,18 @@
+{
+    "users": {
+        "template": {
+            "id": "string.uuid",
+            "name": "person.fullName",
+            "email": "internet.email",
+            "address": "location.city"
+        },
+        "count": 6
+    },
+    "posts": {
+        "template": {
+            "title": "lorem.sentence",
+            "body": "lorem.paragraph"
+        },
+        "count": 3
+    }
+}
